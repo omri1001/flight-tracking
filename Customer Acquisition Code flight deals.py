@@ -1,5 +1,5 @@
 import requests
-sheet_url = "https://api.sheety.co/19c8fef61987ddff56f584e28940f963/useresPartOfFlightProject/users"
+sheet_url = PUTYOURS
 
 
 def new_user():
