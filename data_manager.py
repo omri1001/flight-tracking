@@ -1,7 +1,7 @@
 import requests
 
-SHEETY_PRICES_ENDPOINT = "https://api.sheety.co/19c8fef61987ddff56f584e28940f963/projectOfFlightDeals/prices"
-SHEET_USERS_ENDPOINT = "https://api.sheety.co/19c8fef61987ddff56f584e28940f963/useresPartOfFlightProject/users"
+SHEETY_PRICES_ENDPOINT = PUTYOURS
+SHEET_USERS_ENDPOINT = PUTYOURS
 
 
 
