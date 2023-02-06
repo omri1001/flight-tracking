@@ -2,8 +2,8 @@ import requests
 from flight_data import *
 from pprint import *
 
-TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = "Gqkklk_mNNpMDPG2Jo9roVVsDzdXq4Bs"
+TEQUILA_ENDPOINT = "PUTYOURS"
+TEQUILA_API_KEY = "PUTYOURS"
 
 class FlightSearch:
     #This class is responsible for talking to the Flight Search API.
